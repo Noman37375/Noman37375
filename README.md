@@ -1,37 +1,38 @@
-
-
-<!--
-**Noman37375/Noman37375** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 👋 Hi, I’m Muhammad Noman
 
-## 💼 I'm a:
-- 🎓 [BSSE : Student / Developer / AI Enthusiast]
-- 🚀 Passionate about AI, Web Dev, and Robotics
-- 🌱 Currently learning:  Django | React.js  |  Next.js  | MySQL
+## 💼 About Me
+- 🎓 BSSE Student | Frontend Developer | AI Automation Enthusiast  
+- 🚀 Passionate about **AI, Web Development, and Robotics**  
+- 🌱 Currently learning: **Django**, **React.js**, **Next.js**, **TypeScript**, **MySQL**  
 
-## 🛠️ Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+---
 
-## 📈 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Noman37375&show_icons=true&hide_border=true)
+## 🛠️ Skills & Tools
+**Frontend:** React, Next.js (SSR/SSG), Tailwind CSS, Modern CSS (Flex/Grid), Responsive UI, CSS-in-JS  
+**Languages:** JavaScript (ES6+), TypeScript, Python  
+**Backend & APIs:** FastAPI, Node.js basics, REST & GraphQL API Integration, Webhooks  
+**State & Async:** React State, Context API, Async/Await, Error & Loading State Handling  
+**DevOps & Workflow:** Git, Git Flow, CI/CD basics, Code Reviews, Postman, npm/yarn  
+**Testing & Documentation:** Jest, React Testing Library (RTL), Storybook basics  
+**Other Skills:** AI Automation, n8n, LLM Integrations, Analytics Events, Basic SEO for SPAs  
 
-## 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/nomanu)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail)](mailto:nomanu222555@gmail.com)
+---
 
+## 🌐 Projects
+- **LacclEARN.com — Next.js**: Built official platform with responsive UI, Tailwind styling, and API-driven content.  
+- **Pakaicoe.com (Pakistan AI Center of Excellence) — Next.js, CMS**: Developed website and custom CMS for managing blog content.  
+- **Real-time Attendance System — React, FastAPI, MySQL**: Developed dashboard with API integration and database connectivity.  
+- **Dr. Salik Teaching Hospital Website — Next.js**: Created modern, responsive website using component-based architecture.  
+- **AI Automation Workflows — n8n, Python, REST APIs**: Built automation pipelines for business processes.  
+- **Invosync (FBR Invoice System) — API Automation**: Developed workflows for FBR-integrated invoicing.  
+
+---
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Noman37375&show_icons=true&hide_border=true)
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/nomanu)  
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail)](mailto:noman.usman2025@gmail.com)  
