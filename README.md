@@ -34,5 +34,5 @@
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/nomanu)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/noman2025)  
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail)](mailto:noman.usman2025@gmail.com)  
